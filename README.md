@@ -15,6 +15,6 @@ Dự án này là một trò chơi đơn giản được viết bằng C# mà ng
 * IDE như Visual Studio hoặc Visual Studio Code
 
 ## Cách chơi
-** Chạy chương trình.
-Nhập số bạn muốn đoán.
-Nhận phản hồi từ chương trình và tiếp tục đoán cho đến khi bạn tìm ra số bí mật. **
+*Chạy chương trình. 
+*Nhập số bạn muốn đoán.
+*Nhận phản hồi từ chương trình và tiếp tục đoán cho đến khi bạn tìm ra số bí mật. 
